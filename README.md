@@ -3,8 +3,15 @@
 ## 🗂️ Project
 </div>
 <div align="center">
-  <a href="https://github.com/Lotusrious/seoro-project"><b>Seoro</b></a> - 외국인들을 위한 한국여행 플랫폼<br>
-  <a href="https://github.com/Lotusrious/ToUs"><b>ToUs</b></a> - 여행 계획 플랫폼
+  <a href="https://github.com/Lotusrious/seoro-project">
+    <img src="./Seoro.png" alt="Seoro" width="180"/>
+    <div><b>Seoro</b></div>
+  </a>
+  <br><br>
+  <a href="https://github.com/Lotusrious/ToUs">
+    <img src="./ToUs.png" alt="ToUs" width="180"/>
+    <div><b>ToUs</b></div>
+  </a>
 </div>
 
 <br><br>
