@@ -8,6 +8,11 @@
     <div><b>Seoro</b></div>
   </a>
   <br><br>
+  <a href="https://github.com/Lotusrious/SayKO">
+    <img src="./SayKO logo.png" alt="SayKO" width="180"/>
+    <div><b>SayKO</b></div>
+  </a>
+  <br><br>
   <a href="https://github.com/Lotusrious/ToUs">
     <img src="./ToUs.png" alt="ToUs" width="180"/>
     <div><b>ToUs</b></div>
@@ -21,13 +26,15 @@
 ## 💻 Tech Stacks
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <br>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
 <br><br>
